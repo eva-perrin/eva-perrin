@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eva-perrin, Tech recruiter 
 - 👀 I’m interested in awesome Software engineers & Software architects
 - 🌱 I’m currently learning HTML, CSS and Python
-- 💞️ I’m looking forward to have a chat :) 
+- 💞️ I’m looking forward to having a chat :) 
 - 📫 How to reach me: https://www.linkedin.com/in/eva-perrin/
 
 <!---
